@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{F633939D-9E90-4369-B98D-A7AF3E5214F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{4619B2E3-2BC8-440B-92C7-FE24FC28809E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{F633939D-9E90-4369-B98D-A7AF3E5214F9}.Release|x64.Build.0 = Release|Any CPU
 		{F633939D-9E90-4369-B98D-A7AF3E5214F9}.Release|x86.ActiveCfg = Release|Any CPU
 		{F633939D-9E90-4369-B98D-A7AF3E5214F9}.Release|x86.Build.0 = Release|Any CPU
+		{4619B2E3-2BC8-440B-92C7-FE24FC28809E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4619B2E3-2BC8-440B-92C7-FE24FC28809E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4619B2E3-2BC8-440B-92C7-FE24FC28809E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4619B2E3-2BC8-440B-92C7-FE24FC28809E}.Debug|x64.Build.0 = Debug|Any CPU
+		{4619B2E3-2BC8-440B-92C7-FE24FC28809E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4619B2E3-2BC8-440B-92C7-FE24FC28809E}.Debug|x86.Build.0 = Debug|Any CPU
+		{4619B2E3-2BC8-440B-92C7-FE24FC28809E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4619B2E3-2BC8-440B-92C7-FE24FC28809E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4619B2E3-2BC8-440B-92C7-FE24FC28809E}.Release|x64.ActiveCfg = Release|Any CPU
+		{4619B2E3-2BC8-440B-92C7-FE24FC28809E}.Release|x64.Build.0 = Release|Any CPU
+		{4619B2E3-2BC8-440B-92C7-FE24FC28809E}.Release|x86.ActiveCfg = Release|Any CPU
+		{4619B2E3-2BC8-440B-92C7-FE24FC28809E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
